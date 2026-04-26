@@ -1,0 +1,8 @@
+.netrwhist
+.lazy/
+.luarc.json
+lazy-lock.bak
+session/
+swap/
+undo/
+view/
